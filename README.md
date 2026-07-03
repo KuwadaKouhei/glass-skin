@@ -1,5 +1,7 @@
 # glass-skin
 
+**デモ(Storybook): https://kuwadakouhei.github.io/glass-skin/**
+
 React 用の「スキン付き背景サーフェス」コンポーネント集。
 ガラス・すりガラス・反射・オーロラ・金属・カーボン・紙・ホログラムの 8 種類のスキンを、依存ゼロ（React のみ）で提供します。
 
